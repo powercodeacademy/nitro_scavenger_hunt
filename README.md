@@ -9,7 +9,7 @@
 4. Write down the first letter of the component that this page lives in
 ![](benefits.png)
 
-5. Find the `view` file for the Dev Docs page, and write down the first letter of line 233 of the file: https://nitro.powerhrg.com/dev_docs
+5. Find the `view` file for the Dev Docs page, and write down the first letter of line 232 of the file: https://nitro.powerhrg.com/dev_docs
 
 6. Find the `User` with an `id` of `61` and write down the first letter of their `first_name`.
 
