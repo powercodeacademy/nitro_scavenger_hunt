@@ -3,7 +3,7 @@
 1. Find the last enabled `FeatureToggle` (with the attribute `enabled: true`), and write down the last letter of the `name` attribute.
 2. Find the model file for a `FeatureToggle`, and write down the first letter of the `after_commit` method.
 3. Find the `CandidateDemographic` model, and write down the first letter of the Component it lives in.
-4. Write down the first letter of the component that this page lives in (benefits img)
+4. Write down the first letter of the component that ![this page](benefits.png) lives in
 5. Find the `view` file for the Dev Docs page, and write down the first letter of line 233 of the file: https://nitro.powerhrg.com/dev_docs
 6. Find the `User` with an `id` of `61` and write down the first letter of their `first_name`.
 7. Find the view file for this page, and write down the 6th letter of line 52. (email_campaigns img)
